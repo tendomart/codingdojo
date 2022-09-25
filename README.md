@@ -11,8 +11,8 @@ ARDI is an online application that provides national and state estimates of alco
 
 # Why we're workin with this dataset
 
-# 1. To Identify the target variable for predictions
-# 2. Identify features which aid in predicting the target
+ 1. To Identify the target variable for predictions
+ 2. Identify features which aid in predicting the target
 
 # STEPS PERFORMED DURING PREPARATION 
 1. Explolatory Data Analysis
