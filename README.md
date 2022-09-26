@@ -19,8 +19,9 @@ Source https://pubmed.ncbi.nlm.nih.gov/1652146/
 
 # Why we're working with this dataset
 
- 1. To Identify the target variable for predictions
- 2. Identify features which aid in predicting the target
+ 1. Identify the problem as either one that requires supervized or unsupervized machine learning algorithms
+ 2. To Identify the target variable for predictions if any ?
+ 3. Identify features which aid in predicting the target
 
 # STEPS PERFORMED DURING PREPARATION 
 1. Explolatory Data Analysis (EDA)
