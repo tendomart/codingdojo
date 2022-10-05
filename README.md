@@ -27,5 +27,8 @@ Source https://pubmed.ncbi.nlm.nih.gov/1652146/
 1. Explolatory Data Analysis (EDA)
 2. Explanatory Data analysis
 3. Pre-processing in preparation for machine learning model training
+4. The several models (Linear, Bagging and Tree Regressors) are then fit on the Pre-processed data 
+5. The models are then used to predict The Cause of Alcohol Related Deaths 
+6. Models are then Evaluated using various Metrics and the best performer is then selected and recommended for production
 
 
