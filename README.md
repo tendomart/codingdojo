@@ -1,4 +1,4 @@
-# Alcohol-Related Disease Impact (ARDI) Application 
+# Alcohol-Related Disease Impact (ARDI) Prediction
 DATASET SOURCE : https://catalog.data.gov/dataset/alcohol-related-disease-impact-ardi-application-alcohol-attributable-fractions
 
 
